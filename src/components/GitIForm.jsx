@@ -9,7 +9,7 @@ class GitForm extends React.Component {
             username: null,
             dataUser: [],
         };
-        //https://github.com/requiemwell/GithubSearch.git
+        
     }
 
     inputHandler = (e) => {
